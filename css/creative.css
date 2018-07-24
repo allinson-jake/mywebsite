@@ -9,9 +9,10 @@ body {
 }
 
 hr {
-  max-width: 50px;
-  border-width: 3px;
-  border-color: #383838;
+  /*max-width: 50px;*/
+  border-width: 1px;
+  /*border-color: #383838;*/
+  border-color: #d4d4d4;
 }
 
 hr.light {
@@ -170,6 +171,17 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url("../img/header.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+header.masthead_dev {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 56px);
+  background-image: url("../img/dev.jpg");
   background-position: center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
