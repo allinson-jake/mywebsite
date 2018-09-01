@@ -1,5 +1,7 @@
 # portfolio
 
-This is my personal website, built using HTML, CSS, Javascript, and the bootstrap framework.
+This is my personal website, developed to showcase my skills as a developer and filmmaker.
+
+Available at jakeallinson.tech
 
 (c) 2018 Jake Allinson
