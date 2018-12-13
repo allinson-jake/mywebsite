@@ -1,4 +1,4 @@
-# portfolio
+# portfolio-website
 
 This is my personal website, developed to showcase my skills as a developer and filmmaker.
 
