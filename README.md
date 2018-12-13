@@ -4,6 +4,4 @@ This is my personal website, developed to showcase my skills as a developer and 
 
 Built with HTML5, CSS, JavaScript, and the Bootstrap framework.
 
-Available at jakeallinson.tech
-
-(c) 2018 Jake Allinson
+[Available here](http://www.jakeallinson.tech)
