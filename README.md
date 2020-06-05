@@ -1,7 +1,7 @@
 # jakedallinson.com
 
-This is my portfolio website, developed to showcase my skills as a graphics developer and filmmaker.
+This is my portfolio website, developed to showcase my skills as a creative software developer.
 
-Built with HTML5, CSS, JavaScript, and the Bootstrap framework.
+Built with custom HTML5, CSS, and JavaScript.
 
 Available ([here](http://jakedallinson.com))
