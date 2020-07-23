@@ -47,3 +47,10 @@ a:active {
   opacity: 1;
   color: white;
 }
+
+.header-text > p, .footer > p {
+  opacity: 0.2;
+}
+.footer > p, .skills > p {
+  text-align: center;
+}

@@ -60,15 +60,6 @@ p, a {
   grid-template-rows: repeat(2, min-content);
   grid-row-gap: 10px;
 }
-/* .header > div {
-  border: 3px dotted purple;
-} */
-.header-text > p, .footer > p {
-  opacity: 0.2;
-}
-.footer > p, .skills > p {
-  text-align: center;
-}
 .header-links {
   display: grid;
   grid-template-columns: min-content min-content;
