@@ -1,6 +1,5 @@
 $(document).ready(function() {
 
-  //$("#description").hide();
   // rotate the gradient on the background every 1/10 of a second
   setInterval(function(){ 
     let $color = $("#wrapper").css("background-image");
@@ -14,7 +13,8 @@ $(document).ready(function() {
     } else {
       angle += 1;
     }
-    $("#wrapper").css("background-image", "linear-gradient(" + angle + "deg, #ffb82f, #4baaff)");
+    // reapply the gradient
+    $("#wrapper").css("background-image", "linear-gradient(" + angle + "deg, #f8b133, #0651d8)");
   }, 100);
 
 });
